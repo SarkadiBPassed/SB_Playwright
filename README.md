@@ -1,0 +1,1 @@
+Intelligens TimeSheet (Munkaidő-nyilvántartás) kitöltés
